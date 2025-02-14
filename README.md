@@ -60,7 +60,7 @@ This project integrates multiple data analytics and machine learning tools to en
 - Improved customer support for specific segments
 - Loyalty programs to increase retention rates
 
-6️⃣ Dashboard & Reporting
+6️⃣ Dashboard & Reporting [link](https://app.powerbi.com/view?r=eyJrIjoiYWZhMmQ2MWQtNDNmMS00ZDUwLWI1NTgtYzQxOTNkZmY5OWJiIiwidCI6IjFhNTAzODViLWZlNjItNGYzNS04MjI3LTU1Y2MwZjA2MDUzZiJ9)
 - Developed an interactive Power BI dashboard to monitor churn trends in real time
 - Designed user-friendly KPIs, charts, and drill-down filters for business stakeholders
 - Enabled proactive decision-making based on predictive analytics
